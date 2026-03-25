@@ -1,54 +1,47 @@
+PLEASE NOTE :- CLICK ON EDIT TO SEE THE DIAGRAMS
 
-  ╔══════════════════════════════════════════════════════════════╗
-  ║          WATERFALL SDLC — BUBBLE SUBMARINE                   ║
-  ╚══════════════════════════════════════════════════════════════╝
+  
+  WATERFALL SDLC — BUBBLE SUBMARINE 
+  
 
-  ┌─────────────────────────────────────────┐
-  │  PHASE 1: REQUIREMENTS ANALYSIS         │
-  │  • Gather functional requirements       │
-  │  • Define non-functional requirements   │
-  │  • Document scope, constraints          │
-  │  Output: docs/requirements.md           │
-  └────────────────────┬────────────────────┘
-                       │ ✓ Approved
-                       ▼
-  ┌─────────────────────────────────────────┐
-  │  PHASE 2: SYSTEM DESIGN                 │
-  │  • Architecture decisions               │
-  │  • Data structures                      │
-  │  • Game loop design                     │
-  │  • State machine                        │
-  │  Output: docs/design.md                 │
-  └────────────────────┬────────────────────┘
-                       │ ✓ Approved
-                       ▼
-  ┌─────────────────────────────────────────┐
-  │  PHASE 3: IMPLEMENTATION                │
-  │  • HTML5 Canvas game engine             │
-  │  • 5 enemy types                        │
-  │  • 3 weapon systems                     │
-  │  • Wave & scoring logic                 │
-  │  Output: src/index.html                 │
-  └────────────────────┬────────────────────┘
-                       │ ✓ Complete
-                       ▼
-  ┌─────────────────────────────────────────┐
-  │  PHASE 4: TESTING & INTEGRATION         │
-  │  • 25 unit test cases                   │
-  │  • 91% code coverage                    │
-  │  • Requirements traceability            │
-  │  Output: tests/game.test.js             │
-  │          tests/coverage-report.html     │
-  └────────────────────┬────────────────────┘
-                       │ ✓ All tests pass
-                       ▼
-  ┌─────────────────────────────────────────┐
-  │  PHASE 5: MAINTENANCE                   │
-  │  • Bug tracking                         │
-  │  • Future enhancements planned          │
-  │  • Performance benchmarks               │
-  │  Output: docs/maintenance.md            │
-  └─────────────────────────────────────────┘
+  
+  PHASE 1: REQUIREMENTS ANALYSIS 
+  • Gather functional requirements 
+  • Define non-functional requirements 
+  • Document scope, constraints 
+  Output: docs/requirements.md
+  
+                     
+  
+  PHASE 2: SYSTEM DESIGN 
+   • Architecture decisions               
+   • Data structures                      
+   • Game loop design                     
+   • State machine                        
+   Output: docs/design.md                 
+  
+  
+  PHASE 3: IMPLEMENTATION                
+   • HTML5 Canvas game engine             
+   • 5 enemy types                        
+   • 3 weapon systems                     
+   • Wave & scoring logic                 
+   Output: src/index.html                 
+  
+  
+  PHASE 4: TESTING & INTEGRATION         
+  • 25 unit test cases                   
+    • 91% code coverage                    
+    • Requirements traceability            
+    Output: tests/game.test.js            
+    tests/coverage-report.html     
+ 
+   PHASE 5: MAINTENANCE                   
+   • Bug tracking                         
+   • Future enhancements planned          
+   • Performance benchmarks               
+   Output: docs/maintenance.md            
+  
 
   NOTE ON WATERFALL:
   Each phase must be completed and reviewed before the next begins.
@@ -60,9 +53,9 @@
 
 
 
-   ══════════════════════════════════════════════════════════════╗
-  ║          WATERFALL SDLC — BUBBLE SUBMARINE                   ║
-  ╚══════════════════════════════════════════════════════════════╝
+   
+WATERFALL SDLC — BUBBLE SUBMARINE
+ 
 
 PHASE 1:- REQUIREMENTS 
 
